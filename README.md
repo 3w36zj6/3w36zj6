@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**3w36zj6/3w36zj6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏆 Trophy
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=3w36zj6&row=2&column=4" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub stats
+<p>
+  <a href="https://git.io/streak-stats">
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=3w36zj6&theme=vue" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=3w36zj6&count_private=true&include_all_commits=true&show_icons=true&theme=vue" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3w36zj6&hide=jupyter%20notebook,html,css&langs_count=6&theme=vue" />
+  </a>
+</p>
