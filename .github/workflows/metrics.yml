@@ -28,4 +28,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
+          plugin_languages_ignored: >-
+            Jupyter Notebook
           plugin_languages_details: bytes-size, percentage
