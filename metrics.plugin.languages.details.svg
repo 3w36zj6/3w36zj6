@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="275.6031708049808" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="275.6031708049808" y="0" width="103.76901095510541" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="379.3721817600862" y="0" width="39.13871292675693" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="418.5108946868432" y="0" width="30.69900708163003" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="449.2099017684732" y="0" width="5.248286906554675" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="454.4581886750278" y="0" width="2.121460916346783" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="456.5796495913746" y="0" width="1.8523236314954148" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.43197322287006" y="0" width="1.5680267771299696" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="275.52039863327917" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="275.52039863327917" y="0" width="103.73784590585363" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="379.25824453913276" y="0" width="39.12695835855986" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="418.38520289769264" y="0" width="30.689787218600845" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="449.07499011629346" y="0" width="5.246710683379521" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="454.321700799673" y="0" width="2.2381104263076574" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="456.55981122598064" y="0" width="1.8517673213150008" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.4115785472956" y="0" width="1.588421452704316" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>1.25 MB</div>
-                                <div>59.91%</div>
+                                <div>59.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -91,7 +91,7 @@
                             </div>
                             <small>
                                 <div>472 kB</div>
-                                <div>22.56%</div>
+                                <div>22.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -114,8 +114,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>9.66 kB</div>
-                                <div>0.46%</div>
+                                <div>10.1 kB</div>
+                                <div>0.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -126,8 +126,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>7.14 kB</div>
-                                <div>0.34%</div>
+                                <div>7.23 kB</div>
+                                <div>0.35%</div>
                             </small>
                         </div>
                     </section>
